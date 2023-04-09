@@ -1,0 +1,5 @@
+C:\Documents and Settings\Owner\My Documents\school\Cs370\FindRoots\FindRoots\FindRoots\bin\Debug\FindRoots.exe
+C:\Documents and Settings\Owner\My Documents\school\Cs370\FindRoots\FindRoots\FindRoots\bin\Debug\FindRoots.pdb
+C:\Documents and Settings\Owner\My Documents\school\Cs370\FindRoots\FindRoots\FindRoots\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\My Documents\school\Cs370\FindRoots\FindRoots\FindRoots\obj\Debug\FindRoots.exe
+C:\Documents and Settings\Owner\My Documents\school\Cs370\FindRoots\FindRoots\FindRoots\obj\Debug\FindRoots.pdb

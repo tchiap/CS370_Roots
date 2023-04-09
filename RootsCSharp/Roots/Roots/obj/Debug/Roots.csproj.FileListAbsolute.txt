@@ -1,0 +1,7 @@
+C:\Documents and Settings\Owner\My Documents\school\Cs370\RootsCSharp\Roots\Roots\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\My Documents\school\Cs370\RootsCSharp\Roots\Roots\obj\Debug\Roots.Properties.Resources.resources
+C:\Documents and Settings\Owner\My Documents\school\Cs370\RootsCSharp\Roots\Roots\obj\Debug\Roots.csproj.GenerateResource.Cache
+C:\Documents and Settings\Owner\My Documents\school\Cs370\RootsCSharp\Roots\Roots\bin\Debug\Roots.exe
+C:\Documents and Settings\Owner\My Documents\school\Cs370\RootsCSharp\Roots\Roots\bin\Debug\Roots.pdb
+C:\Documents and Settings\Owner\My Documents\school\Cs370\RootsCSharp\Roots\Roots\obj\Debug\Roots.exe
+C:\Documents and Settings\Owner\My Documents\school\Cs370\RootsCSharp\Roots\Roots\obj\Debug\Roots.pdb
